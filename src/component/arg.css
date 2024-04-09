@@ -1,0 +1,22 @@
+#teach::placeholder{
+    color: black;
+    font-size: 1.3rem;
+  }
+  #love{
+    width:250px;
+  }
+  #love::placeholder{
+    color: black;
+    font-size: 1.3rem; 
+  }
+  input{
+    transition:0.5s ;
+
+  }input:focus{
+    box-shadow: 0  0 30px red;
+    transition:0.5s ;
+  }
+  .col:hover{
+    box-shadow: 0 0 30px palevioletred;
+    transition: 0.5s linear;
+  }

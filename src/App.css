@@ -1,0 +1,13 @@
+body{
+  user-select: none;
+  background-color: black;
+  
+}
+
+#teache::placeholder{
+  color: aliceblue;
+  font-size: 1.3rem;
+}
+nav{
+  
+}
