@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Kanekie56.github.io/githubpages",
+  "homepage": "https://github.com/andhi-kenah/simple-calculator",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -18,20 +18,15 @@
     "react-query": "^3.39.3",
     "react-router-dom": "^6.21.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "yarn": "^1.22.22"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-
-
-    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
